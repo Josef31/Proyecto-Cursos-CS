@@ -1,0 +1,21 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto_19_01.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\bin\Debug\Proyecto 19-01.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\bin\Debug\Proyecto 19-01.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.pdb
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\bin\Debug\Proyecto 19-01.exe
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\bin\Debug\Proyecto 19-01.pdb
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.csprojResolveAssemblyReference.cache
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto_19_01.MainForm.resources
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.csproj.GenerateResource.Cache
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.exe
+C:\Users\Equipo\Downloads\Proyecto 19-01\Proyecto 19-01\obj\Debug\Proyecto 19-01.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\bin\Debug\Proyecto 19-01.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\bin\Debug\Proyecto 19-01.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\obj\Debug\Proyecto 19-01.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\obj\Debug\Proyecto_19_01.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\obj\Debug\Proyecto 19-01.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\obj\Debug\Proyecto 19-01.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\codigoWF, version semifinal\Proyecto 19-01\obj\Debug\Proyecto 19-01.pdb
